@@ -1,5 +1,6 @@
-# Posts
+# Twitter Clone
 
+Built a Post app where an authenticated user can add a new post, edit and delete the existing posts. And also can view other user's posts.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
 
 ## Development server
